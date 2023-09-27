@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297661181831",
+    "project_id": "capteurappsofip59",
+    "storage_bucket": "capteurappsofip59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297661181831:android:3dc6aa347d1ee72a5c6d22",
+        "android_client_info": {
+          "package_name": "com.example.capteurapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXuPfaxNmmJowLNrXADBoYv5wUuqZT3cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
